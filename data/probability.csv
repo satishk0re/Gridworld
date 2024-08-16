@@ -1,0 +1,11 @@
+age_group,description,wear_mask,probability
+1,18-29,False,0.001
+2,30-39,False,0.002
+3,40-49,False,0.004
+4,50-59,False,0.016
+5,60-69,False,0.032
+1,18-29,True,0.0005
+2,30-39,True,0.001
+3,40-49,True,0.002
+4,50-59,True,0.008
+5,60-69,True,0.016
